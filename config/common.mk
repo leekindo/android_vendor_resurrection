@@ -143,7 +143,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libemoji \
     LiveWallpapersPicker \
-    PhotoTable \
     Terminal
 
 # Include explicitly to work around GMS issues
@@ -155,17 +154,13 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AudioFX \
     LineageSettingsProvider \
-    Eleven \
     ExactCalculator \
     Trebuchet \
     LockClock \
-    Updater \
     SnapdragonCamera2 \
     WallpaperPicker \
-    WeatherProvider \
     OmniJaws \
     OmniStyle \
-    ResurrectionOTA \
     ResurrectionStats
 
 # Berry styles
